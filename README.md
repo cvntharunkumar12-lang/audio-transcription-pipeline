@@ -1,5 +1,6 @@
 # Transcription Pipeline - Text pipeline with downstream processing
 
+#### CH V N Tharun Kumar | cvntharunkumar12@gmail.com
 ---
 
 ## 1. Problem Statement
