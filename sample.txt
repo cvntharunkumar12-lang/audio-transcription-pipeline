@@ -1,0 +1,8 @@
+[00:00:00.750 -> 00:00:05.830] Hello, this is a test of my audio transcription pipeline.
+[00:00:05.830 -> 00:00:11.830] My name is Tarun and today I am testing speech to text conversion using Python.
+[00:00:11.830 -> 00:00:17.390] The system should accept an audio file in format like web or MP3.
+[00:00:17.390 -> 00:00:24.070] It uses the faster whisper library to convert my voice into written text, each sentence should
+[00:00:24.070 -> 00:00:27.430] come with a start time and end time.
+[00:00:27.430 -> 00:00:33.910] The audio file is very long, the system split into a smaller chunk so memory usage stays low.
+[00:00:33.910 -> 00:00:41.190] After transcription, the test is clean up and saved a JSON or SRT and plain text files.
+[00:00:41.190 -> 00:00:44.870] Yeah, thank you for listening and this is the end of my test.

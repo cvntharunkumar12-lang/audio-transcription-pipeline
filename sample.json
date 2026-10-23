@@ -1,0 +1,70 @@
+{
+  "source_file": "sample.ogg",
+  "language": "en",
+  "language_probability": 0.547,
+  "duration_seconds": 45.74,
+  "word_count": 110,
+  "keywords": [
+    "test",
+    "audio",
+    "text",
+    "transcription",
+    "system",
+    "should",
+    "file",
+    "time",
+    "end",
+    "hello"
+  ],
+  "full_text": "Hello, this is a test of my audio transcription pipeline. My name is Tarun and today I am testing speech to text conversion using Python. The system should accept an audio file in format like web or MP3. It uses the faster whisper library to convert my voice into written text, each sentence should come with a start time and end time. The audio file is very long, the system split into a smaller chunk so memory usage stays low. After transcription, the test is clean up and saved a JSON or SRT and plain text files. Yeah, thank you for listening and this is the end of my test.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.75,
+      "end": 5.83,
+      "text": "Hello, this is a test of my audio transcription pipeline."
+    },
+    {
+      "id": 2,
+      "start": 5.83,
+      "end": 11.83,
+      "text": "My name is Tarun and today I am testing speech to text conversion using Python."
+    },
+    {
+      "id": 3,
+      "start": 11.83,
+      "end": 17.39,
+      "text": "The system should accept an audio file in format like web or MP3."
+    },
+    {
+      "id": 4,
+      "start": 17.39,
+      "end": 24.07,
+      "text": "It uses the faster whisper library to convert my voice into written text, each sentence should"
+    },
+    {
+      "id": 5,
+      "start": 24.07,
+      "end": 27.43,
+      "text": "come with a start time and end time."
+    },
+    {
+      "id": 6,
+      "start": 27.43,
+      "end": 33.91,
+      "text": "The audio file is very long, the system split into a smaller chunk so memory usage stays low."
+    },
+    {
+      "id": 7,
+      "start": 33.91,
+      "end": 41.19,
+      "text": "After transcription, the test is clean up and saved a JSON or SRT and plain text files."
+    },
+    {
+      "id": 8,
+      "start": 41.19,
+      "end": 44.87,
+      "text": "Yeah, thank you for listening and this is the end of my test."
+    }
+  ]
+}
