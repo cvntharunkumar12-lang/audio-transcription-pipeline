@@ -1,5 +1,4 @@
-# Software Engineer Assessment – Transcription Pipeline
-**Company:** Volga Partners  |  **Task:** Audio → Text pipeline with downstream processing
+# Transcription Pipeline - Text pipeline with downstream processing
 
 ---
 
